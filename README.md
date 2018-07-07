@@ -35,7 +35,6 @@ For example:
     Mixer......: CPU::0.09%   Chn:::5
     Player.....: Ord:::0/:13 Pat:::0 Row:::2   Spd:10 Tmp:135
     Position...: 00:00.399 / 02:33.948
-    ^CDeseja finalizar o arquivo em lotes (S/N)? n
 
     ====
 
